@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "807033652052",
+    "project_id": "invento-ry",
+    "storage_bucket": "invento-ry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807033652052:android:cda672043193f307023ec1",
+        "android_client_info": {
+          "package_name": "com.inventory.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807033652052-23e4tf4m5bmbt56h5c27266ou697m2l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inventory.app",
+            "certificate_hash": "64e8f7349083df73f840777a2dd60fe05e613c2b"
+          }
+        },
+        {
+          "client_id": "807033652052-s1kgb081adsta37nscpm42n61vp8mgk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTeCNYs5hpN_Deu7SCh6n8pFLFSzRHdu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807033652052-s1kgb081adsta37nscpm42n61vp8mgk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
